@@ -4,14 +4,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207489f2-6ac7-473d-94cf-2b50a73f13ac" name="Default" comment="ActivityClass Lab">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="207489f2-6ac7-473d-94cf-2b50a73f13ac" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2_ActivityLab/Test2_DoubleRotateActivityOneTest.txt" afterPath="$PROJECT_DIR$/Lab2_ActivityLab/Test2_DoubleRotateActivityOneTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2_ActivityLab/Test3_StartActivityTwoTest.txt" afterPath="$PROJECT_DIR$/Lab2_ActivityLab/Test3_StartActivityTwoTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2_ActivityLab/Test4_DoubleRotateActivityTwoTest.txt" afterPath="$PROJECT_DIR$/Lab2_ActivityLab/Test4_DoubleRotateActivityTwoTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2_ActivityLab/Test5_CloseActivityTwoTest.txt" afterPath="$PROJECT_DIR$/Lab2_ActivityLab/Test5_CloseActivityTwoTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2_ActivityLab/Test6_ReopenActivityTwoTest.txt" afterPath="$PROJECT_DIR$/Lab2_ActivityLab/Test6_ReopenActivityTwoTest.txt" />
     </list>
     <ignored path="TheActivityClass.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +52,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="Mateo Rodriguez" />
         <option value="mateorodriguez@outlook.com" />
+        <option value="Mateo Rodriguez" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -568,6 +562,14 @@
       <option name="presentableId" value="Default" />
       <updated>1486607937684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished ActivityLab excercises">
+      <created>1486830378338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486830378338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -618,7 +620,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ActivityClass Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="ActivityClass Lab" />
+    <MESSAGE value="Finished ActivityLab excercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished ActivityLab excercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
