@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\mateo\\Courses\\Programming-Mobile-Apps-for-Android-1\\week3\\Intents\\Lab3a_IntentsLabTest\\lab3a_IntentsLabTest\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\mateo\\Courses\\Programming-Mobile-Apps-for-Android-1\\week3\\Intents\\Lab3a_IntentsLabTest\\lab3a_IntentsLabTest\\build\\intermediates\\exploded-aar\\Lab3a_IntentsLabTest\\lab3a_IntentsLab\\unspecified\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

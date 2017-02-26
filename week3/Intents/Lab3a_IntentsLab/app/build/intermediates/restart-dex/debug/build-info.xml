@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1282495499021225"
+    token="-6846496361385216600"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1139" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="177" />
+    <task
+        name="verifier"
+        duration="31" />
+
+    <artifact
+        location="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3a_IntentsLab\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1282495499021225"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3a_IntentsLab\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

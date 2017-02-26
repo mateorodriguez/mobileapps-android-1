@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mateo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3b_DangerousApp\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_6ef0cc9986a17ce2cecc54231fc569fbf26b6152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3b_DangerousApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3918e877f71b110b3affb847720617fe9dc6412">
+        <dex dex="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3b_DangerousApp\app\build\intermediates\pre-dexed\debug\instant-run_e881fc5bd330a1bb9ff21b6ad093a1f07c911ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3b_DangerousApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="716e2a60e4f5ef31ba6ab02ab81a07efe26d60ca">
+        <dex dex="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3b_DangerousApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_56bc06f09956a70c41b464bd2855777efa234500.jar" />
+    </item>
+
+</items>

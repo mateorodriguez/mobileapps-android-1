@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3a_MyBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af81d45333709adfc4fb7bd078a154734fb001f5">
+        <dex dex="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3a_MyBrowser\app\build\intermediates\pre-dexed\debug\instant-run_3adc9a416fd5d4bde1d2a1deefec43078e5d2db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3a_MyBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfae67695e670f052efdd23485b1adaad36da44a">
+        <dex dex="C:\Users\mateo\Courses\Programming-Mobile-Apps-for-Android-1\week3\Intents\Lab3a_MyBrowser\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3cd2f60242938b837172b671a4578dcc27b3e1ef.jar" />
+    </item>
+
+</items>
